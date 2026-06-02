@@ -1,0 +1,206 @@
+# RandomCompanions
+
+**Summon random mounts and pets with one click.**
+
+RandomCompanions adds two on-screen buttons — one for mounts and one for pets — to summon random companions quickly. Pets are automatically summoned on login, instance change, or reload.
+
+---
+
+## Features
+
+### On-Screen Buttons
+- **Mount Button** — Summons a random mount on each click
+- **Pet Button** — Summons a random pet on each click (auto-swap if one is already active)
+- Draggable to any screen position
+- Position saved between sessions
+- Adjustable scale (50% to 200%)
+- Option to lock position
+- Auto-hide during Pet Battles, cinematics, and minigames
+
+### Selection Modes
+- **Favorites** — Summons only from your favorites
+- **All** — Summons from your entire collection
+- Toggle via right-click on the buttons or in the settings panel
+
+### Auto-Pet
+- Automatically summons a random pet on:
+  - Login
+  - Reload (/reload)
+  - Instance change
+- Can be enabled/disabled in settings
+
+### Minimap Icon
+- Left-click: open settings panel
+- Right-click: show/hide on-screen buttons
+- Draggable around the minimap
+
+### Settings Panel
+
+Accessible via Interface > Addons > RandomCompanions or `/rc config`:
+
+- Mount selection mode (Favorites / All)
+- Pet selection mode (Favorites / All)
+- Auto-pet on/off
+- Show/hide buttons
+- Lock position
+- Adjust button size
+- Reset position
+- Show/hide minimap icon
+
+---
+
+## Chat Commands
+
+```
+/rc mount        - Summon random mount
+/rc pet          - Summon random pet
+/rc mf           - Mounts: favorites mode
+/rc ma           - Mounts: all mode
+/rc pf           - Pets: favorites mode
+/rc pa           - Pets: all mode
+/rc autopet on   - Enable auto-pet
+/rc autopet off  - Disable auto-pet
+/rc toggle       - Show/hide buttons
+/rc lock         - Lock/unlock position
+/rc config       - Open settings
+/rc reset        - Reset button position
+```
+
+---
+
+## Keybindings
+
+Configurable in Options > Key Bindings > RandomCompanions:
+
+- Summon Random Mount
+- Summon Random Pet
+
+---
+
+## Installation
+
+1. Download from CurseForge
+2. Extract the `RandomCompanions` folder to:
+   `World of Warcraft\_retail_\Interface\AddOns\`
+3. Restart WoW or type `/reload`
+
+---
+
+## FAQ
+
+**Do buttons hide during Pet Battles?**
+Yes! They auto-hide and return when the battle ends.
+
+**Do I need favorites marked?**
+No. If there are no favorites, the addon uses the entire collection as fallback.
+
+**Does it work on Classic?**
+No. Retail only (Midnight 12.0.5+).
+
+**How to move the buttons?**
+Drag with the mouse. To lock, use `/rc lock` or check the option in settings.
+
+---
+
+## Compatibility
+
+- WoW Retail: Midnight 12.0.5+
+- Interface: 120005
+- Dependencies: None (embedded libs)
+- Compatible with minimap organizers (MBB, HidingBar, etc.)
+
+---
+---
+
+# RandomCompanions (Português)
+
+**Invoque montarias e pets aleatórios com um clique.**
+
+RandomCompanions adiciona dois botões na sua tela — um para montarias e outro para pets — que invocam companheiros aleatórios de forma rápida. Pets são invocados automaticamente ao entrar no mundo, trocar de instância ou relogar.
+
+---
+
+## Funcionalidades
+
+### Botões na Tela
+- **Botão de Montaria** — Invoca uma montaria aleatória a cada clique
+- **Botão de Pet** — Invoca um pet aleatório a cada clique (troca automaticamente)
+- Movíveis para qualquer posição da tela
+- Posição salva entre sessões
+- Escala ajustável (50% a 200%)
+- Opção de travar posição
+- Ocultam automaticamente durante Pet Battles, cinematics e minigames
+
+### Modos de Seleção
+- **Favoritas/Favoritos** — Invoca apenas entre os marcados como favoritos
+- **Todas/Todos** — Invoca entre toda a coleção disponível
+- Alternável via clique direito nos botões ou no painel de opções
+
+### Auto-Pet
+- Invoca um pet aleatório automaticamente ao:
+  - Entrar no mundo (login)
+  - Relogar (/reload)
+  - Trocar de instância
+- Pode ser ativado/desativado nas configurações
+
+### Ícone no Minimapa
+- Clique esquerdo: abre o painel de opções
+- Clique direito: mostra/oculta os botões da tela
+- Arrastável ao redor do minimapa
+
+### Painel de Configurações
+
+Acessível via Interface > Addons > RandomCompanions ou `/rc config`:
+
+- Modo de seleção de montarias
+- Modo de seleção de pets
+- Auto-pet on/off
+- Mostrar/ocultar botões
+- Travar posição
+- Ajustar tamanho
+- Resetar posição
+- Mostrar/ocultar ícone do minimapa
+
+---
+
+## Comandos de Chat
+
+```
+/rc mount        - Invocar montaria aleatória
+/rc pet          - Invocar pet aleatório
+/rc mf           - Montarias: modo favoritas
+/rc ma           - Montarias: modo todas
+/rc pf           - Pets: modo favoritos
+/rc pa           - Pets: modo todos
+/rc autopet on   - Ativar auto-pet
+/rc autopet off  - Desativar auto-pet
+/rc toggle       - Mostrar/ocultar botões
+/rc lock         - Travar/destravar posição
+/rc config       - Abrir configurações
+/rc reset        - Resetar posição dos botões
+```
+
+---
+
+## Instalação
+
+1. Baixe o addon pelo CurseForge
+2. Extraia a pasta `RandomCompanions` em:
+   `World of Warcraft\_retail_\Interface\AddOns\`
+3. Reinicie o WoW ou digite `/reload`
+
+---
+
+## FAQ
+
+**Os botões somem durante Pet Battles?**
+Sim! Eles se ocultam automaticamente e voltam quando a batalha termina.
+
+**Preciso ter favoritos marcados?**
+Não. Se não houver favoritos, o addon usa toda a coleção como fallback.
+
+**Funciona em Classic?**
+Não. Apenas WoW Retail (Midnight 12.0.5+).
+
+**Como mover os botões?**
+Arraste com o mouse. Para travar, use `/rc lock` ou marque no painel de opções.

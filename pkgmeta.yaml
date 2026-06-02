@@ -1,0 +1,14 @@
+package-as: RandomCompanions
+
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - CHANGELOG.md
+  - .git
+  - .gitignore
+  - screenshots
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
