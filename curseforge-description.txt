@@ -95,7 +95,7 @@ Yes! They auto-hide and return when the battle ends.
 No. If there are no favorites, the addon uses the entire collection as fallback.
 
 **Does it work on Classic?**
-No. Retail only (Midnight 12.0.5+).
+No. Retail only (Midnight 12.0.7+).
 
 **How to move the buttons?**
 Drag with the mouse. To lock, use `/rc lock` or check the option in settings.
@@ -104,7 +104,7 @@ Drag with the mouse. To lock, use `/rc lock` or check the option in settings.
 
 ## Compatibility
 
-- WoW Retail: Midnight 12.0.5+
+- WoW Retail: Midnight 12.0.7+
 - Interface: 120005
 - Dependencies: None (embedded libs)
 - Compatible with minimap organizers (MBB, HidingBar, etc.)
@@ -200,7 +200,7 @@ Sim! Eles se ocultam automaticamente e voltam quando a batalha termina.
 Não. Se não houver favoritos, o addon usa toda a coleção como fallback.
 
 **Funciona em Classic?**
-Não. Apenas WoW Retail (Midnight 12.0.5+).
+Não. Apenas WoW Retail (Midnight 12.0.7+).
 
 **Como mover os botões?**
 Arraste com o mouse. Para travar, use `/rc lock` ou marque no painel de opções.

@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------
 -- RandomCompanions
--- Addon para WoW 12.0.5 (Midnight)
+-- Addon para WoW 12.0.7 (Midnight)
 -- Um botão no minimapa para configurações
 -- Dois botões na tela (montaria + pet) movíveis
 -- Pet aleatório invocado automaticamente ao entrar/relogar/instância

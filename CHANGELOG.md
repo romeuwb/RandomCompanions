@@ -67,7 +67,7 @@
 - Configurable keybindings (Key Bindings > RandomCompanions)
 - Chat commands (/rc)
 - Auto-hide during Pet Battles, cinematics, and minigames
-- Compatible with WoW 12.0.5 (Midnight)
+- Compatible with WoW 12.0.7 (Midnight)
 
 ---
 ---
@@ -141,4 +141,4 @@
 - Keybindings configuráveis (Atalhos > RandomCompanions)
 - Comandos de chat (/rc)
 - Ocultação automática durante Pet Battles, cinematics e minigames
-- Compatível com WoW 12.0.5 (Midnight)
+- Compatível com WoW 12.0.7 (Midnight)

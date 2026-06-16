@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120007
 ## Title: RandomCompanions
 ## Notes: Invoca montarias e pets aleatórios ou favoritos com um botão. Pets são invocados automaticamente ao entrar no mundo ou trocar de instância.
 ## Author: Player
