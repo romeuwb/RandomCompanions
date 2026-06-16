@@ -2,6 +2,10 @@
 
 ## [1.0.3] - 2025-05-29
 
+### Changed
+
+- Updated interface version to 12.0.7 (120007)
+
 ### Fixed
 
 - Fixed mount type filter not working correctly with WoW 12.0 dynamic flight system
@@ -75,6 +79,10 @@
 # Changelog (Português)
 
 ## [1.0.3] - 2025-05-29
+
+### Alterado
+
+- Atualizado interface version para 12.0.7 (120007)
 
 ### Corrigido
 
