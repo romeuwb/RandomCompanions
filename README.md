@@ -2,7 +2,7 @@
 
 **Invoque montarias e pets aleatórios com um clique.**
 
-RandomCompanions é um addon leve para World of Warcraft (Midnight 12.0.7) que adiciona dois botões na tela — um para montarias e outro para pets — permitindo invocar companheiros aleatórios de forma rápida e prática. Pets são invocados automaticamente ao entrar no mundo, trocar de instância ou relogar.
+RandomCompanions é um addon leve para World of Warcraft (Midnight 12.1.0) que adiciona dois botões na tela — um para montarias e outro para pets — permitindo invocar companheiros aleatórios de forma rápida e prática. Pets são invocados automaticamente ao entrar no mundo, trocar de instância ou relogar.
 
 ---
 
@@ -85,7 +85,7 @@ Configuráveis em Opções > Atalhos > RandomCompanions:
 
 ## Compatibilidade
 
-- **WoW Retail:** Midnight 12.0.7+
+- **WoW Retail:** Midnight 12.1.0+
 - **Interface:** 120005
 - **Dependências:** Nenhuma (libs embutidas)
 

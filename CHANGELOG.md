@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4] - 2025-08-11
+
+### Changed
+
+- Updated interface version to 12.1.0 (120100)
+
+---
+
 ## [1.0.3] - 2025-05-29
 
 ### Changed
@@ -77,6 +85,14 @@
 ---
 
 # Changelog (Português)
+
+## [1.0.4] - 2025-08-11
+
+### Alterado
+
+- Atualizado interface version para 12.1.0 (120100)
+
+---
 
 ## [1.0.3] - 2025-05-29
 
